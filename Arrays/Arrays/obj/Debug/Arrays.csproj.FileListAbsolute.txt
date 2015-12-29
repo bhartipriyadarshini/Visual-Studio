@@ -1,0 +1,6 @@
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.exe.config
+D:\Lab\Visual Studio\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.exe
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Debug\Arrays.pdb
+D:\Lab\Visual Studio\Arrays\Arrays\obj\Debug\Arrays.exe
+D:\Lab\Visual Studio\Arrays\Arrays\obj\Debug\Arrays.pdb

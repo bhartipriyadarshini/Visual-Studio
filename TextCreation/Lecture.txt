@@ -1,0 +1,13 @@
+Notes 
+c#
+
+1.We write classes to implement feature.
+2. Classes we generally create to work with the noun.
+3.We can define multiple classes in the same project
+4.Class member define 1.state 2.behaviour
+5.Using.System.collection.generics - a class that allows you to store a list of things.
+6. syntax
+   List<float>grades;
+7.Writeline written by somebody else in microsoft which resides inside console class.
+8.Cusrly braces and ; matters in C# but whitespace dosen't unline visual basic etc
+9.

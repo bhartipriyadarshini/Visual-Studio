@@ -1,0 +1,6 @@
+D:\Lab\Visual Studio\TextCreation\TextCreation\bin\Debug\TextCreation.exe.config
+D:\Lab\Visual Studio\TextCreation\TextCreation\obj\Debug\TextCreation.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\TextCreation\TextCreation\bin\Debug\TextCreation.exe
+D:\Lab\Visual Studio\TextCreation\TextCreation\bin\Debug\TextCreation.pdb
+D:\Lab\Visual Studio\TextCreation\TextCreation\obj\Debug\TextCreation.exe
+D:\Lab\Visual Studio\TextCreation\TextCreation\obj\Debug\TextCreation.pdb

@@ -1,0 +1,6 @@
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\bin\Debug\StringReverseing.exe.config
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\bin\Debug\StringReverseing.exe
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\bin\Debug\StringReverseing.pdb
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\obj\Debug\StringReverseing.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\obj\Debug\StringReverseing.exe
+D:\Lab\Visual Studio\StringReverseing\StringReverseing\obj\Debug\StringReverseing.pdb

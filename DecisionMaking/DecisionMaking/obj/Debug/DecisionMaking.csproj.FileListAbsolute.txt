@@ -1,0 +1,6 @@
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe.config
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.exe
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\bin\Debug\DecisionMaking.pdb
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.exe
+D:\Lab\Visual Studio\DecisionMaking\DecisionMaking\obj\Debug\DecisionMaking.pdb

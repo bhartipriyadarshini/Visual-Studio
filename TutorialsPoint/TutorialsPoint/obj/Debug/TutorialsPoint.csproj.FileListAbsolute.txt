@@ -1,0 +1,6 @@
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\bin\Debug\TutorialsPoint.exe.config
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\bin\Debug\TutorialsPoint.exe
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\bin\Debug\TutorialsPoint.pdb
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\obj\Debug\TutorialsPoint.csprojResolveAssemblyReference.cache
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\obj\Debug\TutorialsPoint.exe
+D:\Lab\Visual Studio\TutorialsPoint\TutorialsPoint\obj\Debug\TutorialsPoint.pdb

@@ -1,0 +1,5 @@
+D:\Lab\Visual Studio\HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe.config
+D:\Lab\Visual Studio\HelperMethod\HelperMethod\bin\Debug\HelperMethod.exe
+D:\Lab\Visual Studio\HelperMethod\HelperMethod\bin\Debug\HelperMethod.pdb
+D:\Lab\Visual Studio\HelperMethod\HelperMethod\obj\Debug\HelperMethod.exe
+D:\Lab\Visual Studio\HelperMethod\HelperMethod\obj\Debug\HelperMethod.pdb

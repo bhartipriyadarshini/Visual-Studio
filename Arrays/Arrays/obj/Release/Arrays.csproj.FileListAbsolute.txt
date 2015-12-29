@@ -1,0 +1,5 @@
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Release\Arrays.exe.config
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Release\Arrays.exe
+D:\Lab\Visual Studio\Arrays\Arrays\bin\Release\Arrays.pdb
+D:\Lab\Visual Studio\Arrays\Arrays\obj\Release\Arrays.exe
+D:\Lab\Visual Studio\Arrays\Arrays\obj\Release\Arrays.pdb
